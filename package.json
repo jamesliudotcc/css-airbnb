@@ -11,6 +11,6 @@
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.12.5",
-    "csslint": "^0.10.0"
+    "csslint": "^1.0.5"
   }
 }
